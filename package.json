@@ -1,0 +1,17 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "main": "operacje.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Jakub C",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.36.0",
+    "parcel": "^2.11.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "description": ""
+}
