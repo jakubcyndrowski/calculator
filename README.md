@@ -1,3 +1,3 @@
 #calculator
 
-Calculator. Link:
+Calculator. Link: https://calculatorbyjc.netlify.app/
